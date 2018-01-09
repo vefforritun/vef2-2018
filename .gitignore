@@ -1,0 +1,8 @@
+build/
+node_modules/
+
+# old build system
+templates/
+generate.js
+generateindex.js
+gulpfile.js
