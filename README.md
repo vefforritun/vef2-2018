@@ -8,9 +8,8 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
 
 ### Fyrirlestur 1, 11. janúar 2018
 
-* [Kynning](fyrirlestrar/01.1.kynning.md)
-* [node.js](fyrirlestrar/01.2.nodejs.md)
-* Dæmi
+* [Kynning](fyrirlestrar/01.1.kynning.md), [vídeó](https://www.youtube.com/watch?v=ssrl7AE8Isk)
+* [node.js](fyrirlestrar/01.2.nodejs.md), [vídeó](https://www.youtube.com/watch?v=CDPjiMx4Qdg)
   - [args.js](daemi/fyrirlestrar/node/args.js)
   - [async-await.js](daemi/fyrirlestrar/node/async-await.js)
   - [block.js](daemi/fyrirlestrar/node/block.js)
@@ -23,4 +22,13 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
   - [log.js](daemi/fyrirlestrar/node/log.js)
   - [promisify.js](daemi/fyrirlestrar/node/promisify.js)
   - [readfile.js](daemi/fyrirlestrar/node/readfile.js)
+* [Stærra dæmi](daemi/md2html/README.md), [vídeó](https://www.youtube.com/watch?v=fMh7m6LC3Ec)
 
+### Fyrirlestur 2, 18. janúar 2018
+
+* Umræðuefni: „Hverjir eru kostir og gallar NPM?“
+  - [The Node.js Community Is Quietly Changing the Face of Open Source](http://caines.ca/blog/2013/04/13/the-node-dot-js-community-is-quietly-changing-the-face-of-open-source/) – frá 2013
+  - [Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet”](https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/)
+  - [NPM & left-pad: Have We Forgotten How To Program?](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
+  - [Code dependencies are the devil.](https://medium.freecodecamp.org/code-dependencies-are-the-devil-35ed28b556d)
+  - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
