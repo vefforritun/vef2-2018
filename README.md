@@ -8,8 +8,8 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
 
 ### Fyrirlestur 1, 11. janúar 2018
 
-* [Kynning](fyrirlestrar/01.kynning.md)
-* [node.js](fyrirlestrar/02.nodejs.md)
+* [Kynning](fyrirlestrar/01.1.kynning.md)
+* [node.js](fyrirlestrar/01.2.nodejs.md)
 * Dæmi
   - [args.js](daemi/fyrirlestrar/node/args.js)
   - [async-await.js](daemi/fyrirlestrar/node/async-await.js)
