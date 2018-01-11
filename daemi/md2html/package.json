@@ -1,0 +1,16 @@
+{
+  "name": "md2html",
+  "engines": {
+    "node": ">=8 <10"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "md2html.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "8.4.0"
+  }
+}
