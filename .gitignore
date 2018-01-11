@@ -6,3 +6,5 @@ templates/
 generate.js
 generateindex.js
 gulpfile.js
+
+temp/
