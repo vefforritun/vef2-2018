@@ -36,10 +36,16 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
   - [jsdoc.js](daemi/fyrirlestrar/node/jsdoc.js)
   - [modules.js](daemi/fyrirlestrar/modules/)
   - [npm](daemi/fyrirlestrar/npm)
-* [Fyrirlestur 2.2: Atburðir, straumar og net](fyrirlestrar/02.2.events.streams.net), [vídeó](https://www.youtube.com/watch?v=)
-  - [eventemmiter.js](daemi/fyrirlestrar/node/eventemmiter.js)
+* [Fyrirlestur 2.2: Atburðir, straumar og net](fyrirlestrar/02.2.events.streams.net.md), [vídeó](https://www.youtube.com/watch?v=)
+  - [eventemitter.js](daemi/fyrirlestrar/node/eventemitter.js)
   - [fs-stream.js](daemi/fyrirlestrar/node/fs-stream.js)
   - [http-request.js](daemi/fyrirlestrar/node/http-request.js)
   - [http.js](daemi/fyrirlestrar/node/http.js)
   - [tcp.js](daemi/fyrirlestrar/node/tcp.js)
   - [simple-server](daemi/fyrirlestrar/simple-server)
+
+---
+
+## Verkefni
+
+* [Verkefni 1](https://github.com/vefforritun/vef2-2018-v1), sett fyrir 18. janúar, skilist 1. febrúar
