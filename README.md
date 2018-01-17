@@ -8,8 +8,8 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
 
 ### Fyrirlestur 1, 11. janúar 2018
 
-* [Kynning](fyrirlestrar/01.1.kynning.md), [vídeó](https://www.youtube.com/watch?v=ssrl7AE8Isk)
-* [node.js](fyrirlestrar/01.2.nodejs.md), [vídeó](https://www.youtube.com/watch?v=CDPjiMx4Qdg)
+* [Fyrirlestur 1.1: Kynning](fyrirlestrar/01.1.kynning.md), [vídeó](https://www.youtube.com/watch?v=ssrl7AE8Isk)
+* [Fyrirlestur 1.2: node.js](fyrirlestrar/01.2.nodejs.md), [vídeó](https://www.youtube.com/watch?v=CDPjiMx4Qdg)
   - [args.js](daemi/fyrirlestrar/node/args.js)
   - [async-await.js](daemi/fyrirlestrar/node/async-await.js)
   - [block.js](daemi/fyrirlestrar/node/block.js)
@@ -32,3 +32,7 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
   - [NPM & left-pad: Have We Forgotten How To Program?](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
   - [Code dependencies are the devil.](https://medium.freecodecamp.org/code-dependencies-are-the-devil-35ed28b556d)
   - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+* [Fyrirlestur 2.1: Einingar](fyrirlestrar/02.1.modules.md), [vídeó](https://www.youtube.com/watch?v=)
+  - [jsdoc.js](daemi/fyrirlestrar/node/jsdoc.js)
+  - [modules.js](daemi/fyrirlestrar/modules/)
+  - [npm](daemi/fyrirlestrar/npm)
