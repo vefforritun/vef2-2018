@@ -43,9 +43,20 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
   - [http.js](daemi/fyrirlestrar/node/http.js)
   - [tcp.js](daemi/fyrirlestrar/node/tcp.js)
   - [simple-server](daemi/fyrirlestrar/simple-server)
+* [Fyrirlestur 2.3: Express](fyrirlestrar/02.3.express.md), [vídeó](https://www.youtube.com/watch?v=)
+  - [hello-world.js](daemi/fyrirlestrar/express-daemi/hello-world.js)
+  - [subapp.js](daemi/fyrirlestrar/express-daemi/subapp.js)
+  - [request.js](daemi/fyrirlestrar/express-daemi/request.js)
+  - [response.js](daemi/fyrirlestrar/express-daemi/response.js)
+  - [router.js](daemi/fyrirlestrar/express-daemi/router.js)
+  - [router-app.js](daemi/fyrirlestrar/express-daemi/router-app.js)
+  - [middleware.js](daemi/fyrirlestrar/express-daemi/middleware.js)
+  - [error-handling.js](daemi/fyrirlestrar/express-daemi/error-handling.js)
+  - [template-ejs.js](daemi/fyrirlestrar/express-daemi/template-ejs.js)
+  - [static.js](daemi/fyrirlestrar/express-daemi/static.js)
 
 ---
 
 ## Verkefni
 
-* [Verkefni 1](https://github.com/vefforritun/vef2-2018-v1), sett fyrir 18. janúar, skilist 1. febrúar
+* [Verkefni 1](https://github.com/vefforritun/vef2-2018-v1), sett fyrir 18. janúar, skilist 2. febrúar

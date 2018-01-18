@@ -1,0 +1,14 @@
+<%- include('header') -%>
+
+<p>Hjá okkur starfa:</p>
+<ul>
+  <% staff.forEach((staff) => { %>
+    <li><%= staff %></li>
+  <% }) %>
+</ul>
+
+<% if (typeof extra !== 'undefined') { %>
+  <%- extra %>
+<% } %>
+
+<%- include('footer') -%>
