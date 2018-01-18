@@ -1,5 +1,6 @@
 build/
 node_modules/
+video/
 
 # old build system
 templates/
