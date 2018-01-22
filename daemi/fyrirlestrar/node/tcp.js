@@ -4,7 +4,7 @@ var server = net.createServer();
 var clients = [];
 var i = 0;
 
-server.on('connection', function(client) {
+server.on('connection', (client) => {
   i++;
   var name = '#' + i;
 

@@ -65,7 +65,7 @@ server.on('request', async (request, response) => {
 
   response.setHeader('Content-Type', 'text/html');
   response.statusCode = 200;
-console.log(url)
+
   if (url === '/') {
     response.write(template('Forsíða', '<p>Halló heimur</p>'));
   } else if (url === '/clock') {
