@@ -57,7 +57,7 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
 
 ### Fyrirlestur 3, 25. janúar 2018
 
-* [Fyrirlestur 3.1: HTTP og form](fyrirlestrar/03.1.http.form.md)
+* [Fyrirlestur 3.1: HTTP og form](fyrirlestrar/03.1.http.form.md), [vídeó, part 1](https://www.youtube.com/watch?v=wElbIl4RbWc), [vídeó, part 2](https://www.youtube.com/watch?v=0UFNT7BOhCE)
   - [async-await.js](daemi/fyrirlestrar/form/async-await.js)
   - [compression.js](daemi/fyrirlestrar/form/compression.js)
   - [content-type.js](daemi/fyrirlestrar/form/content-type.js)
@@ -70,7 +70,7 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
   - [post-form.js](daemi/fyrirlestrar/form/post-form.js)
   - [post-plain.js](daemi/fyrirlestrar/form/post-plain.js)
   - [post.js](daemi/fyrirlestrar/form/post.js)
-* [Fyrirlestur 3.2: Postgres](fyrirlestrar/03.2.postgres.md)
+* [Fyrirlestur 3.2: Postgres](fyrirlestrar/03.2.postgres.md), [vídeó](https://www.youtube.com/watch?v=iKRXpYqxCRo)
   - [insert.js](daemi/fyrirlestrar/postgres/insert.js)
   - [insert-promises.js](daemi/fyrirlestrar/postgres/insert-promises.js)
   - [insert-async-await.js](daemi/fyrirlestrar/postgres/insert-async-await.js)
