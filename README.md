@@ -55,6 +55,40 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
   - [template-ejs.js](daemi/fyrirlestrar/express-daemi/template-ejs.js)
   - [static.js](daemi/fyrirlestrar/express-daemi/static.js)
 
+### Fyrirlestur 3, 25. janúar 2018
+
+* [Fyrirlestur 3.1: HTTP og form](fyrirlestrar/03.1.http.form.md)
+  - [async-await.js](daemi/fyrirlestrar/form/async-await.js)
+  - [compression.js](daemi/fyrirlestrar/form/compression.js)
+  - [content-type.js](daemi/fyrirlestrar/form/content-type.js)
+  - [data-validator.js](daemi/fyrirlestrar/form/data-validator.js)
+  - [data.js](daemi/fyrirlestrar/form/data.js)
+  - [download.js](daemi/fyrirlestrar/form/download.js)
+  - [get.js](daemi/fyrirlestrar/form/get.js)
+  - [json-middleware.js](daemi/fyrirlestrar/form/json-middleware.js)
+  - [multer.js](daemi/fyrirlestrar/form/multer.js)
+  - [post-form.js](daemi/fyrirlestrar/form/post-form.js)
+  - [post-plain.js](daemi/fyrirlestrar/form/post-plain.js)
+  - [post.js](daemi/fyrirlestrar/form/post.js)
+* [Fyrirlestur 3.2: Postgres](fyrirlestrar/03.2.postgres.md)
+  - [insert.js](daemi/fyrirlestrar/postgres/insert.js)
+  - [insert-promises.js](daemi/fyrirlestrar/postgres/insert-promises.js)
+  - [insert-async-await.js](daemi/fyrirlestrar/postgres/insert-async-await.js)
+  - [select-client.js](daemi/fyrirlestrar/postgres/select-client.js)
+  - [select-cs.js](daemi/fyrirlestrar/postgres/select-cs.js)
+  - [select-pool.js](daemi/fyrirlestrar/postgres/select-pool.js)
+  - [select-promises.js](daemi/fyrirlestrar/postgres/select-promises.js)
+  - [select-async-await.js](daemi/fyrirlestrar/postgres/select-async-await.js)
+
+### Fyrirlestur 4, 1. febrúar 2018
+
+* Greinar um öryggi
+  - [Hacker Lexicon: SQL Injections, an Everyday Hacker's Favorite Attack](https://www.wired.com/2016/05/hacker-lexicon-sql-injections-everyday-hackers-favorite-attack/)
+  - [How I Hacked 40 Websites in 7 minutes](https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824)
+  - [The MySpace Worm that Changed the Internet Forever](https://motherboard.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
+  - [Your Node.js authentication tutorial is (probably) wrong](https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46)
+  - [Meet the seven people who hold the keys to worldwide internet security](https://www.theguardian.com/technology/2014/feb/28/seven-people-keys-worldwide-internet-security-web)
+
 ---
 
 ## Verkefni
