@@ -106,3 +106,4 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
 ## Verkefni
 
 * [Verkefni 1](https://github.com/vefforritun/vef2-2018-v1), [kynning í fyrirlestri](https://youtu.be/RpyM9Uisx1M?t=2639), sett fyrir 18. janúar, skilist 2. febrúar
+* [Verkefni 2](https://github.com/vefforritun/vef2-2018-v2), [kynning í fyrirlestri](https://youtu.be/), sett fyrir 1. febrúar, skilist 15. febrúar
