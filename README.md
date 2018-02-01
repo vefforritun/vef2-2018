@@ -88,7 +88,7 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
   - [The MySpace Worm that Changed the Internet Forever](https://motherboard.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
   - [Your Node.js authentication tutorial is (probably) wrong](https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46)
   - [Meet the seven people who hold the keys to worldwide internet security](https://www.theguardian.com/technology/2014/feb/28/seven-people-keys-worldwide-internet-security-web)
-* [Fyrirlestur 4.1](fyrirlestrar/04.1.security.md) [vídeó](https://www.youtube.com/watch?v=)
+* [Fyrirlestur 4.1 – Öryggi](fyrirlestrar/04.1.security.md) [vídeó, part 1](https://www.youtube.com/watch?v=O9kuhEvXixo), [vídeó, part 2](https://www.youtube.com/watch?v=VzDTicSmGTM)
   - [csp.js](daemi/fyrirlestrar/security/csp.js)
   - [injection.js](daemi/fyrirlestrar/security/injection.js)
   - [post-redirect-get.js](daemi/fyrirlestrar/security/post-redirect-get.js)
