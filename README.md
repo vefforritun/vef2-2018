@@ -82,12 +82,24 @@ Einnig er hægt að nálgast efnið á [vef námskeiðis](https://notendur.hi.is
 
 ### Fyrirlestur 4, 1. febrúar 2018
 
-* Greinar um öryggi
+* Greinar og blogg um öryggi
   - [Hacker Lexicon: SQL Injections, an Everyday Hacker's Favorite Attack](https://www.wired.com/2016/05/hacker-lexicon-sql-injections-everyday-hackers-favorite-attack/)
   - [How I Hacked 40 Websites in 7 minutes](https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824)
   - [The MySpace Worm that Changed the Internet Forever](https://motherboard.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
   - [Your Node.js authentication tutorial is (probably) wrong](https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46)
   - [Meet the seven people who hold the keys to worldwide internet security](https://www.theguardian.com/technology/2014/feb/28/seven-people-keys-worldwide-internet-security-web)
+* [Fyrirlestur 4.1](fyrirlestrar/04.1.security.md) [vídeó](https://www.youtube.com/watch?v=)
+  - [csp.js](daemi/fyrirlestrar/security/csp.js)
+  - [injection.js](daemi/fyrirlestrar/security/injection.js)
+  - [post-redirect-get.js](daemi/fyrirlestrar/security/post-redirect-get.js)
+  - [powered-by.js](daemi/fyrirlestrar/security/powered-by.js)
+  - [xss-persistent.js](daemi/fyrirlestrar/security/xss-persistent.js)
+  - [xss-reflected.js](daemi/fyrirlestrar/security/xss-reflected.js)
+* [Fyrirlestur 4.2](fyrirlestrar/04.2.auth.md) [vídeó](https://www.youtube.com/watch?v=)
+  - [basic-auth.js](daemi/fyrirlestrar/auth/basic-auth.js)
+  - [cookie.js](daemi/fyrirlestrar/auth/cookie.js)
+  - [passport.js](daemi/fyrirlestrar/auth/passport.js)
+  - [session.js](daemi/fyrirlestrar/auth/session.js)
 
 ---
 
