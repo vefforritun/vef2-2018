@@ -17,4 +17,4 @@
 * [promisify.js](daemi/promisify.js)
 * [readfile.js](daemi/readfile.js)
 
-[Stærra dæmi](md2html/README.md), [vídeó](https://www.youtube.com/watch?v=fMh7m6LC3Ec)
+[Stærra dæmi](md2html/), [vídeó](https://www.youtube.com/watch?v=fMh7m6LC3Ec)
