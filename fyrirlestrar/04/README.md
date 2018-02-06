@@ -8,7 +8,7 @@ Greinar og blogg um öryggi
 * [Your Node.js authentication tutorial is (probably) wrong](https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46)
 * [Meet the seven people who hold the keys to worldwide internet security](https://www.theguardian.com/technology/2014/feb/28/seven-people-keys-worldwide-internet-security-web)
 
-[Fyrirlestur 4.1 – Öryggi](04.1.security.md) [vídeó, part 1](https://www.youtube.com/watch?v=O9kuhEvXixo), [vídeó, part 2](https://www.youtube.com/watch?v=VzDTicSmGTM)
+[Fyrirlestur 4.1 – Öryggi](04.1.security.md) [vídeó, part 1](https://www.youtube.com/watch?v=VzDTicSmGTM), [vídeó, part 2](https://www.youtube.com/watch?v=O9kuhEvXixo)
 
 * [csp.js](daemi/security/csp.js)
 * [injection.js](daemi/security/injection.js)
