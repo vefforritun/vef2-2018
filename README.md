@@ -17,6 +17,10 @@ Einnig er hægt að [nálgast glærur](https://notendur.hi.is/~osk1/vefforritun2
 * [Fyrirlestur 5, 8. febrúar 2018](fyrirlestrar/05/)
   - Auðkenning
 
+## Annað
+
+* [Tengjast postgres grunni](postgres.md)
+
 ## Verkefni
 
 * [Verkefni 1](https://github.com/vefforritun/vef2-2018-v1), [kynning í fyrirlestri](https://youtu.be/RpyM9Uisx1M?t=2639), [sýnilausn](https://github.com/vefforritun/vef2-2018-v1-synilausn) sett fyrir 18. janúar, skilist 2. febrúar
