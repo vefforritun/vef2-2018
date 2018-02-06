@@ -98,7 +98,7 @@ og keyrum:
 [ anonymous { id: 1, text: 'foo' } ]
 ```
 
-Við höfum [nokkrar leiðir til að tengjast postgres](03/03.2.posgres.md#tengjast-gagnagrunni) en kosturinn við að nota tengistreng (_connection string_) er að við notum þannig þegar við setjum upp gagnagrunn á Heroku. Tengistrengur að ofan er jafngildur eftirfarandi, þar sem [tengistrengur er URI](03/03.1.http.form.md#url) (þar sem eftir skema kemur `username:password@`):
+Við höfum [nokkrar leiðir til að tengjast postgres](fyrirlestrar/03/03.2.postgres.md#tengjast-gagnagrunni) en kosturinn við að nota tengistreng (_connection string_) er að við notum þannig þegar við setjum upp gagnagrunn á Heroku. Tengistrengur að ofan er jafngildur eftirfarandi, þar sem [tengistrengur er URI](fyrirlestrar/03/03.1.http.form.md#url) (þar sem eftir skema kemur `username:password@`):
 
 ```javascript
 const client = new Client({
