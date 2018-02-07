@@ -23,5 +23,5 @@ Einnig er hægt að [nálgast glærur](https://notendur.hi.is/~osk1/vefforritun2
 
 ## Verkefni
 
-* [Verkefni 1](https://github.com/vefforritun/vef2-2018-v1), [kynning í fyrirlestri](https://youtu.be/RpyM9Uisx1M?t=2639), [sýnilausn](https://github.com/vefforritun/vef2-2018-v1-synilausn) sett fyrir 18. janúar, skilist 2. febrúar
+* [Verkefni 1](https://github.com/vefforritun/vef2-2018-v1), [kynning í fyrirlestri](https://youtu.be/RpyM9Uisx1M?t=2639), [sýnilausn](https://github.com/vefforritun/vef2-2018-v1-synilausn), [yfirferð á sýnilausn](https://youtu.be/vQgB9zBtV68)
 * [Verkefni 2](https://github.com/vefforritun/vef2-2018-v2), [kynning](https://youtu.be/wtcKyTTvOB4), sett fyrir 1. febrúar, skilist 15. febrúar
