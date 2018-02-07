@@ -33,13 +33,13 @@ postgres=# \du
 Þá getum við útbúið gagnagrunn (t.d. `v2`) og notanda (t.d. `notandi`) fyrir grunninn sem við vitum að hefur aðgang:
 
  ```bash
-postgres=# create user notandi;
+postgres=# CREATE USER notandi;
 CREATE ROLE
 
-postgres=# create database v2;
+postgres=# CREATE DATABASE v2;
 CREATE DATABASE
 
-psql=# grant all privileges on database v2 to notandi;
+psql=# GRANT ALL PRIVILEGES ON DATABASE v2 TO notandi;
 GRANT
 ```
 
@@ -48,13 +48,16 @@ Við getum þá hætt í psql og loggað okkur aftur inn sem nýr notandi, búi�
 ```bash
 psql=# \q
 > psql -U notandi -d v2
+
 psql=# CREATE TABLE test (
   id serial primary key,
   text varchar(64) not null
 );
 CREATE TABLE
+
 postgres=> INSERT INTO test (text) VALUES ('foo');
 INSERT 0 1
+
 postgres=> SELECT * FROM test;
  id | text
 ----+------
@@ -108,5 +111,28 @@ const client = new Client({
   password: '',
 })
 ```
+
+## Ekki að virka?
+
+Í einhverjum tilfellum þarf að gefa notanda lykilorð eða setja gildistíma á notanda. Hægt er að gera þegar notandi er búinn til:
+
+```bash
+postgres=# CREATE USER foo WITH PASSWORD 'bar' VALID UNTIL 'infinity';
+CREATE ROLE
+```
+
+eða breyta notanda sem nú þegar er til:
+
+```bash
+postgres=# ALTER USER notandi SET PASSWORD = 'bar';
+ALTER ROLE
+
+postgres=# ALTER USER notandi VALID UNTIL 'infinity';
+ALTER ROLE
+```
+
+Ef notandi hefur lykilorð verður að breyta tengistreng t.d. í `'postgres://notandi:foo@localhost/v2'`
+
+---
 
 Lentir þú í frekari vandræðum og fannst út úr þeim? Bættu veseni og lausn við með pull request eða láttu Óla vita á slack.
