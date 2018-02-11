@@ -18,9 +18,13 @@ Til þess að tengjast er hægt að nota `psql` CLI forrit:
 > psql <username> -h 127.0.0.1 -d postgres
 # eða
 > psql username -h localhost -d postgres
+# eða
+> psql -U postgres # og gefa upp lykilorð frá því við uppsetningu á Windows
 ```
 
-Þá er hægt að athuga hvaða notendur eru til staðar:
+Á Windows gæti verið að `psql` sé ekki í PATH, það er hægt að gera í gegnum `Settings > System`, [sjá svar á superuser.com](https://superuser.com/a/949577). Aftast í PATH þarf að setja slóð á `bin` möppu innan `postgres` möppu, t.d. `;C:\Program Files\PostgreSQL\10\bin`. Þá er hægt að keyra `psql` án þess að fá ` 'psql' is not recognized as an internal or external command` villu.
+
+Eftir að komist er inn með `psql` er hægt að athuga hvaða notendur eru til staðar:
 
 ```bash
 postgres=# \du
