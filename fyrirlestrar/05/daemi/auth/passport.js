@@ -24,7 +24,7 @@ function strat(username, password, done) {
     .findByUsername(username)
     .then((user) => {
       if (!user) {
-        return done(null, false);
+        return false;
       }
 
       return users.comparePasswords(password, user);
