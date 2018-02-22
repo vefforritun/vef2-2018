@@ -9,3 +9,4 @@ generateindex.js
 gulpfile.js
 
 temp/
+.env
