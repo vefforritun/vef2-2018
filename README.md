@@ -16,6 +16,8 @@ Einnig er hægt að [nálgast glærur](https://notendur.hi.is/~osk1/vefforritun2
   - Öryggi
 * [Fyrirlestur 5, 8. febrúar 2018](fyrirlestrar/05/)
   - Auðkenning og Heroku
+* [Fyrirlestur 6, 22. febrúar 2018](fyrirlestrar/06/)
+  - Vefþjónustur og meira um auðkenningu
 
 ## Annað
 
