@@ -34,7 +34,11 @@ async function strat(username, password, done) {
     done(error);
   }
 
-  return done(null, user);
+  if (result) {
+    return done(null, user);
+  }
+
+  return done(null, false);
 }
 
 passport.use(new Strategy(strat));
