@@ -18,6 +18,20 @@ Einnig er hægt að [nálgast glærur](https://notendur.hi.is/~osk1/vefforritun2
   - Auðkenning og Heroku
 * [Fyrirlestur 6, 22. febrúar 2018](fyrirlestrar/06/)
   - Vefþjónustur og meira um auðkenningu
+* Fyrirlestur 7, 1. mars 2018
+  - Meira um vefjónustur, redis
+* Fyrirlestur 8, 8. mars 2018
+  - React, 15. mars 2018
+* Fyrirlestur 9, 15. mars 2018
+  - React og að vinna með stöðu
+* Fyrirlestur 10, 22. mars 2018
+  - React og webpack eða preact
+* Fyrirlestur 11, 5. apríl 2018
+  - _Líklega_ prófanir, CI, CMS
+* Fyrirlestur 12, 12. apríl 2018
+  - _Líklega_ Vue
+* Fyrirlestur 13, 19. apríl 2018
+  - Upprifjun og um lokapróf
 
 ## Annað
 
@@ -28,7 +42,10 @@ Einnig er hægt að [nálgast glærur](https://notendur.hi.is/~osk1/vefforritun2
 * [Verkefni 1](https://github.com/vefforritun/vef2-2018-v1), [kynning í fyrirlestri](https://youtu.be/RpyM9Uisx1M?t=2639), [sýnilausn](https://github.com/vefforritun/vef2-2018-v1-synilausn), [yfirferð á sýnilausn](https://youtu.be/vQgB9zBtV68)
 * [Verkefni 2](https://github.com/vefforritun/vef2-2018-v2), [kynning](https://youtu.be/wtcKyTTvOB4), [sýnilausn](https://github.com/vefforritun/vef2-2018-v2-synilausn)
 * [Verkefni 3](https://github.com/vefforritun/vef2-2018-v3), sett fyrir 18. febrúar, skilist 3. mars
+* Verkefni 4, sett fyrir ca. 1. mars, skilist ca. 16. mars
+* Verkefni 5, sett fyrir ca. 15. mars, skilist ca. 5. apríl
 
 ## Hópverkefni
 
 * [Hópverkefni 1](https://github.com/vefforritun/vef2-2018-h1), [kynning í fyrirlestri](https://youtu.be/ZRegsWQ74f4?t=2436), sett fyrir 22. febrúar, skilist 15. mars
+* Hópverkefni 2, sett fyrir ca. 22. mars, skilist ca. 12. apríl
