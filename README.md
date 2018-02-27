@@ -21,7 +21,7 @@ Einnig er hægt að [nálgast glærur](https://notendur.hi.is/~osk1/vefforritun2
 * Fyrirlestur 7, 1. mars 2018
   - Meira um vefjónustur, redis
 * Fyrirlestur 8, 8. mars 2018
-  - React, 15. mars 2018
+  - React
 * Fyrirlestur 9, 15. mars 2018
   - React og að vinna með stöðu
 * Fyrirlestur 10, 22. mars 2018
