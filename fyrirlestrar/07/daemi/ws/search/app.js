@@ -29,7 +29,7 @@ async function select(search = '') {
 }
 
 app.get('/', async (req, res) => {
-  let { search } = req.query;
+  const { search } = req.query;
 
   const rows = await select(search);
 
