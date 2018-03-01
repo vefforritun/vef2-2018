@@ -9,9 +9,9 @@
 
 [Fyrirlestur 7.2: redis](07.2.redis.md), [vídeó](https://www.youtube.com/watch?v=)
 
-* [redis](daemi/ws/redis)
+* [redis](daemi/redis)
 
 [Fyrirlestur 7.3: Dæmi](07.3.scraping.md), [vídeó](https://youtu.be/)
 
-* [cheerio](daemi/ws/cheerio)
-* [fetch](daemi/ws/fetch)
+* [cheerio](daemi/scraping/cheerio)
+* [fetch](daemi/scraping/fetch)
