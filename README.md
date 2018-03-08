@@ -20,7 +20,7 @@ Einnig er hægt að [nálgast glærur](https://notendur.hi.is/~osk1/vefforritun2
   - Vefþjónustur og meira um auðkenningu
 * [Fyrirlestur 7, 1. mars 2018](fyrirlestrar/07/)
   - Meira um vefjónustur, redis, scraping
-* Fyrirlestur 8, 8. mars 2018
+* [Fyrirlestur 8, 8. mars 2018](fyrirlestrar/08/)
   - React
 * Fyrirlestur 9, 15. mars 2018
   - React og að vinna með stöðu
