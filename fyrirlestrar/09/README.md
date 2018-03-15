@@ -1,6 +1,6 @@
 # Fyrirlestur 9, 15. mars 2018
 
-[Fyrirlestur 9.1: React #2](09.1.react.md), [vídeó, part 1](https://www.youtube.com/watch?v=), [vídeó, part 2](https://www.youtube.com/watch?v=)
+[Fyrirlestur 9.1: React #2](09.1.react2.md), [vídeó, part 1](https://www.youtube.com/watch?v=), [vídeó, part 2](https://www.youtube.com/watch?v=)
 
 * [clock](daemi/clock)
 * [data](daemi/data)
