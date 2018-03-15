@@ -8,7 +8,7 @@ class Fetch extends Component {
       const data = await this.fetchData();
       this.setState({ data, loading: false });
     } catch (e) {
-      console.error('Error fetching navigation', e);
+      console.error('Error fetching data', e);
       this.setState({ error: true, loading: false });
     }
   }
@@ -38,7 +38,9 @@ class Fetch extends Component {
 class App extends Component {
   render() {
     return (
-      <Fetch url="http://apis.is/currency/arion" />
+      <div>
+        <Fetch url="http://apis.is/currency/arion" />
+      </div>
     );
   }
 }

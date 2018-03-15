@@ -61,7 +61,7 @@ class App extends Component {
   render() {
     return (
       <main>
-        <Helmet defaultTitle="Hjólagögn.is"" titleTemplate="%s – Hjólagögn.is">
+        <Helmet defaultTitle="Hjólagögn.is" titleTemplate="%s – Hjólagögn.is">
           <html lang="is" />
           <body className="foo" />
         </Helmet>
