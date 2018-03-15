@@ -43,7 +43,7 @@ Einnig er hægt að [nálgast glærur](https://notendur.hi.is/~osk1/vefforritun2
 * [Verkefni 2](https://github.com/vefforritun/vef2-2018-v2), [kynning](https://youtu.be/wtcKyTTvOB4), [sýnilausn](https://github.com/vefforritun/vef2-2018-v2-synilausn)
 * [Verkefni 3](https://github.com/vefforritun/vef2-2018-v3), sett fyrir 18. febrúar, skilist 2. mars
 * [Verkefni 4](https://github.com/vefforritun/vef2-2018-v4), [kynning](https://youtu.be/quky39q7H9c?t=1299) sett fyrir 1. mars, skilist fimmtudaginn 15. mars
-* [Verkefni 5](https://github.com/vefforritun/vef2-2018-v5), sett fyrir 15. mars, skilist 6. apríl
+* [Verkefni 5](https://github.com/vefforritun/vef2-2018-v5), sett fyrir 15. mars, skilist 5. apríl
 
 ## Hópverkefni
 
