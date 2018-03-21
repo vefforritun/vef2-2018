@@ -24,8 +24,8 @@ Einnig er hægt að [nálgast glærur](https://notendur.hi.is/~osk1/vefforritun2
   - React #1, scraping dæmi
 * [Fyrirlestur 9, 15. mars 2018](fyrirlestrar/09/)
   - React #2, Aðeins um Git
-* Fyrirlestur 10, 22. mars 2018
-  - React #3
+* [Fyrirlestur 10, 22. mars 2018](fyrirlestrar/10/)
+  - React #3, flux & redux
 * Fyrirlestur 11, 5. apríl 2018
   - _Líklega_ prófanir, CI, CMS
 * Fyrirlestur 12, 12. apríl 2018
