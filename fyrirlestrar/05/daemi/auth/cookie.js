@@ -1,6 +1,8 @@
 const express = require('express');
 const cookieParser = require('cookie-parser');
 
+// ATH þetta dæmi virkar aðeins ef opnað á http://127.0.0.0.1:3000 ekki á
+// http://localhost:3000 því cookie er aðeins sett ef lén hefur amk einn punkt
 const hostname = '127.0.0.1';
 const port = 3000;
 
