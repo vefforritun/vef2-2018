@@ -48,4 +48,4 @@ Einnig er hægt að [nálgast glærur](https://notendur.hi.is/~osk1/vefforritun2
 ## Hópverkefni
 
 * [Hópverkefni 1](https://github.com/vefforritun/vef2-2018-h1), [kynning í fyrirlestri](https://youtu.be/ZRegsWQ74f4?t=2436), sett fyrir 22. febrúar, skilist miðvikudaginn 21. mars
-* Hópverkefni 2, sett fyrir ca. 22. mars, skilist ca. 12. apríl
+* [Hópverkefni 2](https://github.com/vefforritun/vef2-2018-h2), [kynning í fyrirlestri](https://youtu.be/), sett fyrir 22. mars, skilist miðvikudaginn 18. apríl
