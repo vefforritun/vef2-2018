@@ -62,6 +62,29 @@ class FileInput extends React.Component {
   }
 }
 
+class Video extends Component {
+
+  onMouseOver = () => {
+    this.video.play();
+  }
+
+  onMouseOut = () => {
+    this.video.pause();
+  }
+
+  render() {
+    return (
+      <video
+        src="/bunny.mp4"
+        paused
+        ref={(v) => { this.video = v; }}
+        onMouseOver={this.onMouseOver}
+        onMouseOut={this.onMouseOut}
+      />
+    );
+  }
+}
+
 const html = 'First &middot; Second';
 
 class App extends Component {
@@ -69,12 +92,14 @@ class App extends Component {
     return (
       <div>
         <CustomTextInput />
-
+        <br />
         <div dangerouslySetInnerHTML={{__html: html}} />
-
+        <br />
         <UncontrolledForm />
-
+        <br />
         <FileInput />
+        <br />
+        <Video />
       </div>
     );
   }
