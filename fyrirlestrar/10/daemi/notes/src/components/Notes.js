@@ -12,7 +12,8 @@ class Notes extends Component {
 
   onHeaderClick = (noteId) => {
     return (e) => {
-      this.setState({ visibleNote: noteId })
+      const visibleNote = this.state.visibleNote === noteId ? null : noteId;
+      this.setState({ visibleNote });
     }
   }
 
@@ -34,16 +35,19 @@ class Notes extends Component {
       <section>
         <h2>Minnisatriði</h2>
         <ul>
-          {notes.map((note) => (
-            <Note
-              key={note.id}
-              title={note.title}
-              text={note.text}
-              datetime={note.datetime}
-              visible={this.state.visibleNote === note.id}
-              onHeaderClick={this.onHeaderClick(note.id)}
-            />
-          ))}
+          {notes.map((note) => {
+            console.log('Render', note.id, 'visible note = ', this.state.visibleNote)
+            return (
+              <Note
+                key={note.id}
+                title={note.title}
+                text={note.text}
+                datetime={note.datetime}
+                visible={this.state.visibleNote === note.id}
+                onHeaderClick={(this.onHeaderClick(note.id))}
+              />
+            )
+          })}
         </ul>
       </section>
     );
