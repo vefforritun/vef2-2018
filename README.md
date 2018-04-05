@@ -26,9 +26,9 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í vefforritun 2 kenndan �
   - React #2, Aðeins um Git
 * [Fyrirlestur 10, 22. mars 2018](fyrirlestrar/10/)
   - React #3, flux & redux
-* Fyrirlestur 11, 5. apríl 2018
-  - _Líklega_ prófanir, CI, CMS
-* Fyrirlestur 12, 12. apríl 2018
+* [Fyrirlestur 11, 5. apríl 2018](fyrirlestrar/11/)
+  - Webpack, testing og CMS
+* [Fyrirlestur 12, 12. apríl 2018](fyrirlestrar/12/)
   - Upprifjun og um lokapróf
 
 ## Annað
