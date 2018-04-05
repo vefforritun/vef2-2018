@@ -1,0 +1,12 @@
+body {
+  background: lightblue url(html5.png);
+}
+
+.important {
+  color: red;
+  font-weight: bold;
+}
+
+img {
+  max-width: 100px;
+}
