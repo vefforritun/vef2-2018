@@ -7,4 +7,4 @@ const hello = require('./module').default;
 
 hello('b');
 console.log(calculate(10, 10));
-console.log(range({foo: 1}));
+console.log(range(1, 10));
