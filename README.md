@@ -46,4 +46,4 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í vefforritun 2 kenndan �
 ## Hópverkefni
 
 * [Hópverkefni 1](https://github.com/vefforritun/vef2-2018-h1), [kynning í fyrirlestri](https://youtu.be/ZRegsWQ74f4?t=2436), [sýnilausn](https://github.com/vefforritun/vef2-2018-h1-synilausn)
-* [Hópverkefni 2](https://github.com/vefforritun/vef2-2018-h2), sett fyrir 22. mars, skilist miðvikudaginn 18. apríl
+* [Hópverkefni 2](https://github.com/vefforritun/vef2-2018-h2), [Virkni í sýnilausn](https://youtu.be/xPkHckih4tc) sett fyrir 22. mars, skilist miðvikudaginn 18. apríl
