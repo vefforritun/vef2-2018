@@ -39,8 +39,8 @@ Hér má nálgast alla fyrirlestra, dæmi og verkefni í vefforritun 2 kenndan �
 
 * [Verkefni 1](https://github.com/vefforritun/vef2-2018-v1), [kynning í fyrirlestri](https://youtu.be/RpyM9Uisx1M?t=2639), [sýnilausn](https://github.com/vefforritun/vef2-2018-v1-synilausn), [yfirferð á sýnilausn](https://youtu.be/vQgB9zBtV68)
 * [Verkefni 2](https://github.com/vefforritun/vef2-2018-v2), [kynning](https://youtu.be/wtcKyTTvOB4), [sýnilausn](https://github.com/vefforritun/vef2-2018-v2-synilausn), [yfirferð á sýnilausn](https://www.youtube.com/watch?v=5U9rr4KAYm4)
-* [Verkefni 3](https://github.com/vefforritun/vef2-2018-v3), [sýnilausn](https://github.com/vefforritun/vef2-2018-v3-synilausn)
-* [Verkefni 4](https://github.com/vefforritun/vef2-2018-v4), [kynning](https://youtu.be/quky39q7H9c?t=1299), [sýnilausn](https://github.com/vefforritun/vef2-2018-v4-synilausn)
+* [Verkefni 3](https://github.com/vefforritun/vef2-2018-v3), [sýnilausn](https://github.com/vefforritun/vef2-2018-v3-synilausn), [yfirferð á sýnilausn](https://youtu.be/uBrL7vzBOCY)
+* [Verkefni 4](https://github.com/vefforritun/vef2-2018-v4), [kynning](https://youtu.be/quky39q7H9c?t=1299), [sýnilausn](https://github.com/vefforritun/vef2-2018-v4-synilausn), [yfirferð á sýnilausn](https://youtu.be/0gWkgC4YB7Q)
 * [Verkefni 5](https://github.com/vefforritun/vef2-2018-v5), [kynning](https://youtu.be/Q6rqLk-Q-8g?t=1625), [sýnilausn](https://github.com/vefforritun/vef2-2018-v5-synilausn), [yfirferð á sýnilausn](https://youtu.be/8DoMTRKkNLE)
 
 ## Hópverkefni
