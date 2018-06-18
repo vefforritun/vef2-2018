@@ -10,3 +10,6 @@ gulpfile.js
 
 temp/
 .env
+
+# Ekki tracka package-lock.json í dæmum
+**/package-lock.json
